@@ -13,7 +13,7 @@
   <a href="https://discord.gg/ai16z"><img src="https://img.shields.io/discord/1253563208833433701?style=for-the-badge&logo=discord" alt="Discord"></a>
 </div>
 
-## ✨ What is Eliza?
+## ✨ What is SHEFAI AGENT?
 
 ElizaOS is an all-in-one, extensible platform for building and deploying AI-powered applications. Whether you're creating sophisticated chatbots, autonomous agents for business process automation, or intelligent game NPCs, Eliza provides the tools you need to get started quickly and scale effectively.
 
@@ -69,7 +69,7 @@ elizaos create my-first-agent
 # Follow the prompts. For beginners, we recommend:
 # - Database: pglite (no setup required)
 # - Model Provider: openai
-# - Project Type: project
+# - Project Type: project 
 ```
 
 ### 3. Configure Your API Key
