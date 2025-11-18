@@ -1,4 +1,4 @@
-# @elizaos/plugin-bootstrap
+# @elizaos/plugin-shefai-agregator-agent
 
 Event handlers, services, actions, providers and functionality on top of the elizaOS core package.
 
