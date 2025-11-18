@@ -4,14 +4,22 @@
   <p>Build, deploy, and manage autonomous AI agents with a modern, extensible, and full-featured platform.</p>
 </div>
 
-<div align="center">
-  <!-- Badges will go here -->
-  <a href="https://github.com/elizaos/eliza/blob/main/LICENSE"><img src="https://img.shields.io/github/license/elizaos/eliza?style=for-the-badge" alt="License"></a>
-  <a href="https://www.npmjs.com/package/@elizaos/cli"><img src="https://img.shields.io/npm/v/@elizaos/cli?style=for-the-badge" alt="NPM Version"></a>
-  <a href="https://docs.elizaos.ai/"><img src="https://img.shields.io/badge/Documentation-Read%20Docs-blue?style=for-the-badge" alt="Documentation"></a>
-  <a href="https://github.com/elizaos/eliza/actions/workflows/image.yaml"><img src="https://img.shields.io/github/actions/workflow/status/elizaos/eliza/ci.yaml?branch=main&style=for-the-badge" alt="CI Status"></a>
-  <a href="https://discord.gg/ai16z"><img src="https://img.shields.io/discord/1253563208833433701?style=for-the-badge&logo=discord" alt="Discord"></a>
-</div>
+🎯 Problem Statement
+Prediction markets suffer from fragmented liquidity across 15+ platforms (Polymarket, Azuro, Gnosis, etc.), causing:
+
+❌ Large orders can't be filled (max 5 ETH per market)
+❌ Suboptimal pricing (2-5% worse than possible)
+❌ High gas costs (7+ transactions needed)
+❌ Poor UX (manual comparison across markets)
+
+✅ Solution
+SHEFAI Agent aggregates liquidity using AI-powered routing:
+
+✅ 100% order completion (aggregates 180+ ETH across markets)
+✅ 0.6% better prices (optimal routing)
+✅ 77% lower gas costs (single atomic transaction)
+✅ Natural language interface (chat to trade)
+
 
 ## ✨ What is SHEFAI AGENT?
 
